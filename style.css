@@ -1,0 +1,21 @@
+#Goku1{
+  width:100px ;
+}
+body{
+text-align: center;
+  background: linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+}
+.line{
+ height:5px; 
+  background-color:black;
+  width:50px;
+  margin:8px auto ;
+}
+#bio{
+  padding:20px ; 
+  font-size:25 ;
+}
+h1 {
+  text-shadow:2px 2px aqua ;
+  font-size:20px;
+}
